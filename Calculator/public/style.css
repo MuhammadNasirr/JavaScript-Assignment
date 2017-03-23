@@ -1,0 +1,31 @@
+.body {
+    background-color: red;
+    text-align: center;  
+}            
+b {
+  color: black;
+  }
+input{
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+    font-size: 30px;
+    color: orange;
+    background-color: white;
+}
+.equal{
+    width: 124px;
+    height: 60px;
+    border-radius: 8px;
+    font-size: 30px;
+}
+.write {
+    width: 250px;
+    text-align: right;
+}
+.Clear{
+    width: 124px;
+    height: 60px;
+    border-radius: 8px;
+    font-size: 30px;
+}
